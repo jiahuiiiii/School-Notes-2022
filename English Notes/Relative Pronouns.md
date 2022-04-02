@@ -46,19 +46,15 @@
 
 ### *Who* with collective groups of people
 
-- We often use *who* with collective human nouns (e.g. *committee*, *government*, *group*, *panel*, *police*, *team*):
+- We often use *who* with **collective human nouns** (e.g. *committee*, *government*, *group*, *panel*, *police*, *team*):
+  - *Nicola phoned the fire brigade, **who** then alerted the police and social workers.*
 
-> *Nicola phoned the fire brigade, **who** then alerted the police and social workers.*
 
-We do not use *who* for things:
+- We **do not use *who* for things**:
 
-> *There are some very good art books **which** you can get ideas from.*
+  - *There are some very good art books **which** you can get ideas from.*
 
-> Not: There are some very good art books who you can get ideas from.
-
-See also:
-
-- [Relative pronouns: *whom*](https://dictionary.cambridge.org/zhs/语法/英式语法/relative-pronouns%23relative-pronouns__64)
+  - ~~Not: There are some very good art books who you can get ideas from.~~
 
 ## Relative pronouns: *whom*
 
@@ -82,16 +78,10 @@ We put the preposition before *whom*.
 
 **Compare**
 
-
-
 | more formal                                                  | less formal                                                  |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | *There was only one person **to whom** the old man spoke.*   | *There was only one person **who** the old man spoke **to**.* |
 | *She smiled as she remembered the quiet scholar **with whom** she had shared a love of books.* | *She smiled as she remembered the quiet scholar **who** she had shared a love of books **with**.* |
-
-See also:
-
-- [Relative pronouns: *who*](https://dictionary.cambridge.org/zhs/语法/英式语法/relative-pronouns%23relative-pronouns__39)
 
 ## Relative pronoun: *whose*
 
