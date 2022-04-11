@@ -57,7 +57,7 @@
     - ***sebungkus** nasi*
 15. butir
     - benda yang **bulat atau kecil**
-    - telur, batu, manik珠子, beras米, peluru子弹；铅球
+    - telur, batu, manik珠子, beras米, peluru子弹；铅球, permata
     - ***sebutir** peluru*
 16. carik	
     - kepingan yang dicarik被撕裂
@@ -120,7 +120,7 @@
 31. gulung 卷；捆
     - benda yang berlingkar卷曲，成螺旋形
     - filem底片, permaidani地毡, tikar, dawai电线, kertas
-    - ***segulung** kain*
+    - ***segulung** filem*
 32. gumpal
     - benda yang berkepul（云烟等）成团的；弥漫的 atau berketul凝块
     - tanah, darah血, asap烟
@@ -144,64 +144,69 @@
 37. jambak
     - benda-benda yang bertangkai atau berangkai-rangkai串联的；连贯的
     - bunga, kunci
-    - ***sejambak bunga***
+    - ***sejambak** bunga*
 38. jambangan
-    - untuk bunga di dalam pasu atau belanga
-      bunga
+    - bunga di dalam pasu atau belanga
+    - ***sejambangan** bunga*
 39. jumput
-    untuk benda-benda yang dambil dengan hujung jari
-    nasi, garam, gula, ikan bilis, udang kering
+    - benda yang dambil dengan hujung jari
+    - nasi, garam, gula, ikan bilis, udang kering
 40. kajang 
-    untuk benda-benda yang lebar
-    atap, kertas
+    - benda yang lebar, helaian yang besar
+    - atap, kertas, kain
 41. kaki
-    untuk benda-bena yang bertangkai
-    payung, cendawan, bunga
+    - benda yang bertangkai
+    - payung, cendawan, bunga
+    - ***sekaki** cendawan*
 42. kalung
-    untuk benda yang disusun kalung颈饰(rantai)
-    bunga, mutiara
+    - benda yang disusun kalung颈饰(rantai)
+    - bunga, mutiara
 43. kandung
-    untuk haiwan di dalam kandaung
-    kerbau, kambing, lembu, kuda
+    - untuk haiwan di dalam kandaung
+    - kerbau, kambing, lembu, kuda
 44. kapur
-    untuk sirih yang dibubuh kapur石灰
-    sirih
+    - untuk sirih yang dibubuh kapur石灰
+    - sirih
 45. kawan
-    untuk kumpulan haiwan
-    lembu, kambing, lebah , gajah, merpati鸽子
+    - kumpulan haiwan
+    - lembu, kambing, lebah , gajah, merpati鸽子
+    - ***sekawan** lembu*
 46. kelompok
-    untuk sekumpulan manusia, haiwan dan benda
-    burung, awan, pulau, bintang
+    - sekumpulan manusia, haiwan dan benda
+    - burung, awan, pulau, bintang
+    - ***sekelompok** awam*
 47. kepal
-    untuk benda-benda yang dikepal被捏（成团） dengan tangan
-    nasi, pulut糯米, tanah
+    - benda-benda yang dikepal被捏（成团） dengan tangan
+    - nasi, pulut糯米, tanah
 48. keping
-    unuk benda-benda yang nipis atau pipih平薄的
-    roti, biskut, kuih, kad, gambar, sistem, lencana徽章, foto, papan, disket, cakera padat光碟, atap亚答屋屋顶, tanah …
+    - benda yang nipis atau pipih平薄的
+    - roti, biskut, kuih, kad, gambar, sistem, lencana徽章, foto, papan, disket, cakera padat光碟, atap亚答屋屋顶, tanah …
 49. kepul
-    gumpalan asap atau awan yang tebal
-    asap, awan
+    - gumpalan asap atau awan yang tebal
+    - asap, awan
 50. kerat 段
-    untuk bahagian benda-benda yang dipotong
-    tebu甘蔗, kayu, buluh, rotan
+    - bahagian benda-benda yang dipotong
+    - tebu甘蔗, kayu, buluh, rotan
 51. ketul
-    untuk benda-benda ang berketul dan padu
-    batu, ais, tanah liat粘土, ikan, daging, tulang, kuih, arang, roti, sabun …
+    - benda yang berketul dan padu
+    - batu, ais, tanah liat粘土, ikan, daging, tulang, kuih, arang, roti, sabun …
 52. kotak 
-    untuk benda-benda yang diisikan di dalam kotak
-    mancis火柴, rokok, pensel, warna
+    - benda yang diisikan di dalam kotak
+    - mancis火柴, rokok, pensel, warna
+    - ***sekotak** mancis*
 53. kumpulan 
-    untuk manisia atau haiwan yang berada dalam kumpulan
-    pelajar, pemuda, pengakap, pekerja, perompak, burung, itik, gajah, harimau …
+    - manisia atau haiwan yang berada dalam kumpulan
+    - pelajar, pemuda, pengakap, pekerja, perompak, burung, itik, gajah, harimau …
 54. kuntum
-    untuk semua jenis bunga
-    mawar玫瑰, melati茉莉, anggerik兰花
+    - semua jenis bunga
+    - mawar玫瑰, melati茉莉, anggerik兰花
 55. laras
-    untuk senjata api
-    pistol手枪, senapang枪, meriam大炮
+    - senjata api
+    - pistol手枪, senapang枪, meriam大炮
 56. lembar
-    untuk benda-benda yang lurus笔直 dan panjang
-    kertas, dawai, benang
+    - benda yang lurus笔直 dan panjang
+    - kertas, dawai, benang
+    - ***selembar** benang*
 57. longgok
     untuk benda-benda yang berada dalam longgokan成堆
     sampah, durian, pakaian, tanah, cili
@@ -209,14 +214,15 @@
     untuk makanan yang diisi ke dalam mangkuk
     sup, bubur, pengat薯糕
 59. naskhah	
-    untuk bahan bacaan yang beijilid成册的
-    surat khabar, risalah传单, majalah, makalah文章, buku
+    - bahan bacaan yang beijilid成册的
+    - surat khabar, risalah传单, majalah, makalah文章, buku
+    - ***senaskah** surat khabar*
 60. orang
     untuk manusia
     guru, jururawat, doktor, pekedai, posmen
 61. pangsa
-    untuk bahagian dalam durian
-    durian
+    - bahagian dalam durian
+    - ***sepangsa** durian*
 62. papan
     untuk benda-benda yang berbentuk kepingan
     coklat, petai, mercun
@@ -227,79 +233,82 @@
     untuk sekumpulan orang yang berpakaian seragam一致
     permain bola sepak, polis, tentera, pengakap
 65. patah
-    untuk perkataan
-    perkataan, kata
+    - perkataan, kata
 66. petak
-    untuk sawah, bendang, tanah（一小格）
-    sawah, bendang稻田, tanah
+    - sawah, bendang稻田, tanah（一小格）
 67. pintu
-    untuk bangunan yang mempunyai beberapa pintu
-    rumah, kedai
+    - bangunan yang mempunyai beberapa pintu
+    - rumah, kedai
 68. potong
-    untuk benda-benda yang sudah dipotong
-    kek, kuih, roti, nanas, tembikai, betik, oren, daging
+    - benda yang sudah dipotong
+    - kek, kuih, roti, nanas, tembikai, betik, oren, daging
+    - ***sepotong** kek*
 69. pucuk 
-    unuk surat atau benda-benda yang tajam hujungnya
-    untuk senjata api
-    surat, jarum针, rebung竹笋, pistol, meriam, senapang
+    - surat, benda-benda yang tajam hujungnya atau senjata api
+    - surat, jarum针, rebung竹笋, pistol, meriam, senapang
 70. puntung
-    untuk sebahagian benda yang masih menyala燃烧
-    pokok, bara, kayu api, rokok
+    - sebahagian benda yang masih menyala燃烧
+    - pokok, bara, kayu api, rokok
+    - ***sepuntung** rokok*
 71. rangkai
-    untuk ayat yang berangkai-rangkai
-    doa祷告, lagu, madah赞辞
+    - ayat yang berangkai-rangkai
+    - doa祷告, lagu, madah赞辞
 72. rangkap 
-    untuk perenggan puisi 
-    pantun, sajak, syair
+    - perenggan puisi 
+    - pantun, sajak, syair
 73. rawan
-    untuk benda-benda yang halus, labuh, dan bersirat
-    jala渔网, jaring网, pukat大鱼网
+    - benda yang halus, labuh, dan bersirat
+    - jala渔网, jaring网, pukat大鱼网
 74. ruas
-    untuk benda yang beruas-ruas有节的
-    tebu, buluh, jari, rotan
+    - benda yang beruas-ruas有节的
+    - tebu, buluh, jari, rotan
+    - ***seruas** tebu*
 75. rumpun从/perdu
-    untuk tumbuhan yang tumbuh rapat-rapat密集
-    serai香茅, tebu, buluh, padi, lalang茅草, rumput, daun pandan
+    - tumbuhan yang tumbuh rapat-rapat密集
+    - serai香茅, tebu, buluh, padi, lalang茅草, rumput, daun pandans
+    - ***serumpun** buluh*
 76. sikat/sisir
-    untuk buah pisang
-    pisang
+    - ***sesikat** pisang*
 77. suap
-    untuk makanan yang dijemput dan dimasukkan ke mulut
-    roti, nasi
+    - makanan yang dijemput dan dimasukkan ke mulut
+    - roti, nasi
 78. tandan
-    untuk buah-buahan yang bertandan有长梗的
-    pisang, kelapa, pinang, kelapa sawit
+    - buah-buahan yang bertandan有长梗的
+    - pisang, kelapa, pinang, kelapa sawit
 79. tangkai
-    untuk buah-buahan, bunga-bungaan dan daun yang bertangkai有柄的
-    rambutan, duku碌古果, kenanga依兰香, padi, daun
+    - buah-buahan, bunga-bungaan dan daun yang bertangkai有柄的
+    - rambutan, duku碌古果, kenanga依兰香, padi, daun
 80. teguk
-    untuk air yang sedang diminum
-    air, teh, kopi
+    - air yang sedang diminum
+    - air, teh, kopi
+    - ***seteguk** air*
 81. timbun
-    untuk himpunan benda yang bertindih-tindih重叠
-    pasir, tanah, batu, manggis山竹, sampah
+    - himpunan benda yang bertindih-tindih重叠
+    - pasir, tanah, batu, manggis山竹, sampah
 82. tingkat
-    untuk bangunnan ang bertingkat
-    kedai, bangunan, rumah
+    - bangunnan yang bertingkat
+    - kedai, bangunan, rumah
 83. titik/titis
-    untuk cecair yang menitis
-    air. darah, dakwat, embun露水, air mata
+    - cecair yang menitis
+    - air. darah, dakwat, embun露水, air mata
+    - ***setitik** kicap*
 84. tongkol
-    untuk buah yang bertongkol
-    jagung
+    - buah yang bertongkol
+    - ***setongkol** jagung*
 85. ulas
-    untuk isi buah-buahan yang berulas-ulas
-    limau, durian, cempedak, nangka, langsat, manggis, bawang putih
+    - isi buah-buahan yang berulas-ulas
+    - limau, durian, cempedak, nangka, langsat, manggis, bawang putih
+    - ***seulas** limau*
 86. untai
-    untuk benda yang berangkai-rangkai
-    rantai manik, kalung mutiara, tasbih念珠, pantun, sajak, syair
+    - benda yang berangkai-rangkai
+    - rantai manik, kalung mutiara, tasbih念珠, pantun, sajak, syair
 87. utas
-    untuk benda-benda yang panjang dan berurai散落：松开
-    benang, tali, dawai, rantai
-
-urat
-untuk benda yang halus dan panjang
-rambut, dawai, benang
+    - benda yang panjang dan berurai散落：松开
+    - benang, tali, dawai, rantai
+88. urat
+    - benda yang halus dan panjang
+    - rambut, dawai, benang
+    - ***seurat** rambut*
 
 Kata Penegas
 menegaskan hanya frasa predikat
