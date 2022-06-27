@@ -79,6 +79,10 @@
 - The power **went** *out* while the children **were studying**.
 - While we **were waiting** at the bus stop, we **saw** a car accident.
 
+
+
+- Margarita **was swimming** *the whole yesterday morning*.
+
 ## Present perfect
 
 - Form: subject + have/has +verb(past participle/-ed form)
@@ -208,10 +212,24 @@
   - I think Spain **will win** the 2018 World Cup
   - You should watch interstellar. I’m sure you **will love** it.
 - going to ー＞predictions based on something in the present
-- Look at the sky. It is **going to rain** soon.
-- Mom is **going to be** really happy when she sees my grades.
+  - Look at the sky. It is **going to rain** soon.
+  - Mom is **going to be** really happy when she sees my grades.
 
 
 
 
 Source: [Learn ALL TENSES Easily in 30 Minutes - Present, Past, Future | Simple, Continuous, Perfect - YouTube](https://www.youtube.com/watch?v=3lI3R9_Z1HY&ab_channel=LearnEnglishLab)
+
+
+
+## OOF
+
+### Neither...nor
+
+- When neither and nor link singular terms, the verb is singular
+  - **Neither** the ***car*** **nor** the ***truck*** **<u>is</u>** available. 
+- When neither and nor link a singular term and a plural one, put the plural term second and use a plural verb
+  - **Neither** the ***car*** **nor** the ***trucks*** <u>**are**</u> available.
+- Murad, together with Lee and Simon, <u>**is collecting**</u> shells at the nearby beach at the moment.
+- Tyrone, as well as his cousins, **<u>hopes</u>** that grandma brings her famous brownies and peach pie that drip with generous scoop of vanilla ice-cream.
+- The house is dirty. They **<u>have not cleaned</u>** it *for weeks*.
