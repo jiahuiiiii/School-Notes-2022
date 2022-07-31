@@ -14,7 +14,7 @@ Sebagai acara selingan pada hari tersebut, Kelab Muzik sekolah telah memainkan I
 
 Akhir kata, Hari Kantin yang dijalankan berjaya mengutip hasil yang melebihi sasaran yang ditetapkan oleh pihak sekolah. Keseluruhan kutipan untuk Hari Kantin adalah sebanyak RM30,000. Pihak sekolah telah menyasarkan kutipan sebanyak RMI5.000. Pencapaian ini membanggakan pihak sekolah yang diibaratkan seperti kecil tapak tangan, nyiru ditadahkan.
 
-Dilaporkan oleh,                                                                                          20 SEPTEMBER 2016
+Dilaporkan oleh,                                                                                          20 SEPTEMBER 2016s
 
 ...........................
 (SITI PETIMAH BINTI IBRAHIH)
