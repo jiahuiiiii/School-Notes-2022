@@ -1,0 +1,15 @@
+#### Negative impact of social media on adolescents
+
+Millennials have grown up with the internet and are unable to imagine life without it. Most children and adolescents now engage in various forms of social media daily. Nonetheless, using social media can pose a greater risk to adolescents than adults realize.
+
+First, numerous research studies show that social media platforms have a negative impact on people's social skills. The vast majority of communication on social media is done through text and the occasional still image. However, when teenagers learn about social interaction and the world around them, face-to-face communication is essential. As a result, a lack of communication experience in teenagers may increase their risk of developing social anxiety disorder.
+
+Second, teenager social media overuse is frequently associated with underlying issues like depression, chronic stress, anxiety, or low self-esteem. The primary reason for this is that teenagers are more likely to want to show others that they are having fun than actually having fun themselves. This is directly related to another issue known as "Facebook depression." "Facebook depression" is a new term for depression that develops as a result of children and teenagers spending too much time on social media sites and developing depression as a result. Teens' self-esteem and depression can suffer when they compare themselves to photos of others and the illusion of others' better lives. Depression, in turn, puts these children at risk of social isolation and seeking assistance from risky online websites and blogs that may promote unhealthy coping mechanisms such as substance use, unsafe sex, or self-destructive behaviors.
+
+Furthermore, many teens are overly attached to their phones, maybe even addicted. This can have an impact on their studies because it may prevent them from completing their assignments. When a teen wakes up in the morning, he may have specific life goals in mind, but Facebook has no idea what those goals are. Its sole purpose is to distract you from your goals by keeping you scrolling through as many posts as possible. Today's teenagers and tweens are wasting their lives due to their excessive use social media. They are quickly losing the time they get to live life in the real world, doing things they enjoy and spending time with people they care about. They instead choose to spend that time staring at a screen. Teenagers need to understand that life is short and that they do not have an infinite existence. Using their time on something like social media is a big waste and something they will look back at and regret.
+
+To summarize, social media is important for teenagers nowadays because they can use it to get support and advice, to feel less alone, to express themselves creatively, and to stay in touch with friends and family while socially distancing themselves. However, social networking, like everything else, has advantages and disadvantages. To avoid negative consequences, all teenagers and parents must be aware of the drawbacks.
+
+(483 words)
+
+`by jiahuiiiii @ 2nd August 2022 20:57`

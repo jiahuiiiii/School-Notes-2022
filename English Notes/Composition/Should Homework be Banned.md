@@ -1,0 +1,17 @@
+####  Reasons for Banning Homework
+
+Homework takes up a big part of children’s lives. The 21st century has been a homework-heavy era. Kids spend days and nights on book reports, math problems, literature essays, and scientific posters. As a result, homework is an inevitable part of the educational experience. After decades of debate, people still argue over the necessity of homework. For some people, it is seen as “wrecking kids” or even “killing parents.” These people are right. Without homework, the life of both students and even parents would be way better.
+
+First, students are given way too much homework. Homework is an important part of being successful both inside and outside of the classroom, but too much of it can hinder success. Students who spend too much time on homework may find it difficult to meet other needs, such as being physically and socially active. If there’s less homework or no homework at all, students will be more willing to finish their given assignments and have a greater sense of accomplishment. 
+
+Second, school is a full-time job. In Malaysia, most children begin school at 8 a.m. or earlier and finish at 3 p.m. or later. Every day, children devote approximately 9 hours to their education. Add in the extracurricular activities that children must participate in to compete and survive in society, such as attending cram school, learning musical instruments, and participating in sports. Students can easily spend more than 10 hours a day on school-related activities. Turning the school into a full-time job!
+
+Third, homework stresses students out. Many students suffer from stress-related symptoms such as headaches, exhaustion, sleep deprivation, weight loss, and stomach problems. All of these annoying stress and health issues are the result of homework. Obviously, having no homework means having no stress. Without homework, students do not have to drain their time sitting at their desks, exhausted and worried about whether or not they have turned in all of their assignments. As a result, having no homework is an absolute dream come true for students.
+
+Fourth, having too much homework means having insufficient time for yourself. Students who spend too much time on homework are not meeting their developmental needs or developing other critical life skills. Students who have an abundance of homework are more likely to avoid participating in extracurricular activities such as sports, musical instruments, and many others. They may not be able to learn important skills for their future, such as independence, cooking, time management, or even socializing with others. With no homework, they could devote more time to their interests, such as dancing, video games, and painting, while still functioning as adults in society.
+
+Homework supporters are actually driving children away from learning, making them less successful in and out of school, and destroying their childhood by interfering with weekends, vacations, family meal times, children's sleep, play, and down time. Most students feel burdened by their excessive homework. Instead of having an engaging school life, they quickly become numb and unmotivated. As a result, homework should be banned immediately.
+
+(503 words)
+
+`by jiahuiiiii @ 2nd August 2022 21:43`
